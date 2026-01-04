@@ -1066,6 +1066,10 @@ entries:
   phonemes:
   - zue1
   - _en
+- grapheme: you
+  phonemes:
+  - yo
+  - _ou
 symbols:
 - symbol: ba2
   type: vowel
@@ -1572,4 +1576,5 @@ symbols:
 - symbol: zue2
   type: vowel
 - symbol: zue1
+
   type: vowel
